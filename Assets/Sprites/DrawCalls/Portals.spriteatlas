@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Portals
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 1337108286626854119, guid: a6358c88f420d914a86467c8928d13fd, type: 3}
+    - {fileID: 3097210267633153738, guid: d3670427a66449a4b8cbd6709f0ce317, type: 3}
+    - {fileID: 1797306052287561247, guid: 97c7c653482ee134d9b1d74f03a0565d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 97c7c653482ee134d9b1d74f03a0565d: 1797306052287561247
+    - d3670427a66449a4b8cbd6709f0ce317: 3097210267633153738
+    - a6358c88f420d914a86467c8928d13fd: 1337108286626854119
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1797306052287561247, guid: 97c7c653482ee134d9b1d74f03a0565d, type: 3}
+  - {fileID: 3097210267633153738, guid: d3670427a66449a4b8cbd6709f0ce317, type: 3}
+  - {fileID: 1337108286626854119, guid: a6358c88f420d914a86467c8928d13fd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Box (1)
+  - portal_orange
+  - portal_blue
+  m_RenderDataMap: {}
+  m_Tag: Portals
+  m_IsVariant: 0

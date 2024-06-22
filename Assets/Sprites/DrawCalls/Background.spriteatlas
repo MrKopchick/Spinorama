@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: -4864480683213458397, guid: 229d31a342be0b24da4a99aa9ff3a871, type: 3}
+    - {fileID: -8955401428419301561, guid: 229d31a342be0b24da4a99aa9ff3a871, type: 3}
+    - {fileID: -1178126295, guid: 79c18150fb654da4ca5ba63dcc9540b1, type: 3}
+    - {fileID: -715333453360424620, guid: 6540206dd58cf7347a8cb4767dbd6d6f, type: 3}
+    - {fileID: 2800000, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 79c18150fb654da4ca5ba63dcc9540b1: -1178126295
+    - 229d31a342be0b24da4a99aa9ff3a871: -8955401428419301561
+    - 229d31a342be0b24da4a99aa9ff3a871: -4864480683213458397
+    - 8bee06c557feffa46bd587ef27b4bac0: 994926612
+    - 8bee06c557feffa46bd587ef27b4bac0: 533926997
+    - 8bee06c557feffa46bd587ef27b4bac0: 728432619
+    - 8bee06c557feffa46bd587ef27b4bac0: 753307726
+    - 8bee06c557feffa46bd587ef27b4bac0: -1661901379
+    - 8bee06c557feffa46bd587ef27b4bac0: -1931552159
+    - 8bee06c557feffa46bd587ef27b4bac0: 659777164
+    - 8bee06c557feffa46bd587ef27b4bac0: -407819113
+    - 8bee06c557feffa46bd587ef27b4bac0: -1289180008
+    - 8bee06c557feffa46bd587ef27b4bac0: 1666256708
+    - 8bee06c557feffa46bd587ef27b4bac0: -1510984837
+    - 8bee06c557feffa46bd587ef27b4bac0: 1622293548
+    - 8bee06c557feffa46bd587ef27b4bac0: 2127549018
+    - 8bee06c557feffa46bd587ef27b4bac0: 1629235570
+    - 8bee06c557feffa46bd587ef27b4bac0: 1057278271
+    - 8bee06c557feffa46bd587ef27b4bac0: 2078768292
+    - 8bee06c557feffa46bd587ef27b4bac0: 162046941
+    - 8bee06c557feffa46bd587ef27b4bac0: 1123267336
+    - 8bee06c557feffa46bd587ef27b4bac0: -993365777
+    - 8bee06c557feffa46bd587ef27b4bac0: -2135106652
+    - 8bee06c557feffa46bd587ef27b4bac0: -1406565166
+    - 8bee06c557feffa46bd587ef27b4bac0: -1009297368
+    - 8bee06c557feffa46bd587ef27b4bac0: -325445182
+    - 8bee06c557feffa46bd587ef27b4bac0: -1758218071
+    - 8bee06c557feffa46bd587ef27b4bac0: -160485438
+    - 8bee06c557feffa46bd587ef27b4bac0: 1516829165
+    - 8bee06c557feffa46bd587ef27b4bac0: 267379056
+    - 8bee06c557feffa46bd587ef27b4bac0: 730463199
+    - 8bee06c557feffa46bd587ef27b4bac0: 33881189
+    - 8bee06c557feffa46bd587ef27b4bac0: -124735180
+    - 8bee06c557feffa46bd587ef27b4bac0: 739885797
+    - 8bee06c557feffa46bd587ef27b4bac0: -343258298
+    - 6540206dd58cf7347a8cb4767dbd6d6f: -715333453360424620
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1178126295, guid: 79c18150fb654da4ca5ba63dcc9540b1, type: 3}
+  - {fileID: -8955401428419301561, guid: 229d31a342be0b24da4a99aa9ff3a871, type: 3}
+  - {fileID: -4864480683213458397, guid: 229d31a342be0b24da4a99aa9ff3a871, type: 3}
+  - {fileID: 994926612, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 533926997, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 728432619, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 753307726, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -1661901379, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -1931552159, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 659777164, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -407819113, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -1289180008, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 1666256708, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -1510984837, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 1622293548, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 2127549018, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 1629235570, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 1057278271, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 2078768292, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 162046941, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 1123267336, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -993365777, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -2135106652, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -1406565166, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -1009297368, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -325445182, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -1758218071, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -160485438, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 1516829165, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 267379056, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 730463199, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 33881189, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -124735180, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: 739885797, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -343258298, guid: 8bee06c557feffa46bd587ef27b4bac0, type: 3}
+  - {fileID: -715333453360424620, guid: 6540206dd58cf7347a8cb4767dbd6d6f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sky_3
+  - Bird_Frame_1
+  - Bird_Frame_0
+  - travka_14
+  - travka_15
+  - travka_16
+  - travka_17
+  - travka_11
+  - travka_13
+  - travka_18
+  - travka_19
+  - travka_9
+  - travka_8
+  - travka_5
+  - travka_4
+  - travka_7
+  - travka_6
+  - travka_1
+  - travka_0
+  - travka_3
+  - travka_2
+  - travka_29
+  - travka_32
+  - travka_31
+  - travka_25
+  - travka_36
+  - travka_24
+  - travka_37
+  - travka_27
+  - travka_34
+  - travka_26
+  - travka_21
+  - travka_20
+  - travka_23
+  - travka_22
+  - Portal (1)
+  m_RenderDataMap: {}
+  m_Tag: Background
+  m_IsVariant: 0

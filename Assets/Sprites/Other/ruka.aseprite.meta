@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: 71c7133f71d8466429f107ed0d53d107
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: ruka_Frame_0
+    originalName: 
+    pivot: {x: 1.3913044, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 46
+      height: 62
+    spriteID: 65b20a163577b554b960c130301c345e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: ruka_Frame_1
+    originalName: 
+    pivot: {x: 1.3043479, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 46
+      height: 62
+    spriteID: c1da1494d8b729d42a05a76b3b668f73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 74}
+  - name: ruka_Frame_2
+    originalName: 
+    pivot: {x: 1.2826087, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 144
+      width: 46
+      height: 62
+    spriteID: a7b90810a522df941a5105c3fcf4048e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 144}
+  - name: ruka_Frame_3
+    originalName: 
+    pivot: {x: 1.2608696, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 214
+      width: 46
+      height: 62
+    spriteID: c67a7d7053755184cac892d900a57054
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 214}
+  - name: ruka_Frame_4
+    originalName: 
+    pivot: {x: 1.2173914, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 284
+      width: 46
+      height: 62
+    spriteID: 81d9023af858ab84a94e016f16bc3f69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 284}
+  - name: ruka_Frame_5
+    originalName: 
+    pivot: {x: 1.1956522, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 354
+      width: 46
+      height: 62
+    spriteID: 2b7453e987a42484589d87c3ae66cdad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 354}
+  - name: ruka_Frame_6
+    originalName: 
+    pivot: {x: 1.1521739, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 424
+      width: 46
+      height: 62
+    spriteID: bd632b51017442749a97cfe79996157f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 424}
+  - name: ruka_Frame_7
+    originalName: 
+    pivot: {x: 1.1304348, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 4
+      width: 46
+      height: 62
+    spriteID: 7802054e209f2cc43b0b699e890a9c39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 4}
+  - name: ruka_Frame_8
+    originalName: 
+    pivot: {x: 1.0434783, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 74
+      width: 46
+      height: 62
+    spriteID: 8172fd7bcc99f724d828a15895a4f226
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 74}
+  - name: ruka_Frame_9
+    originalName: 
+    pivot: {x: 1.0217391, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 144
+      width: 46
+      height: 62
+    spriteID: 5e22416668f813c4d9110a81c8f07bbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 144}
+  - name: ruka_Frame_10
+    originalName: 
+    pivot: {x: 0.9782609, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 214
+      width: 46
+      height: 62
+    spriteID: 8f7af25617d666543891ac41d71e2a08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 214}
+  - name: ruka_Frame_11
+    originalName: 
+    pivot: {x: 0.95652175, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 284
+      width: 46
+      height: 62
+    spriteID: b94e31d4b56442a44855950aa93b05f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 284}
+  - name: ruka_Frame_12
+    originalName: 
+    pivot: {x: 0.9130435, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 354
+      width: 46
+      height: 62
+    spriteID: c8aef87d52f2ccf4485b32493f44e85e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 354}
+  - name: ruka_Frame_13
+    originalName: 
+    pivot: {x: 0.8913044, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 424
+      width: 46
+      height: 62
+    spriteID: c6fb6ef621304a548bfcb97421ff1640
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 424}
+  - name: ruka_Frame_14
+    originalName: 
+    pivot: {x: 0.8478261, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 4
+      width: 46
+      height: 62
+    spriteID: 16d577566d3f2834283430c80e89e105
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 4}
+  - name: ruka_Frame_15
+    originalName: 
+    pivot: {x: 0.826087, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 74
+      width: 46
+      height: 62
+    spriteID: 10605be9f1852ca4e85a962aeca8b785
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 74}
+  - name: ruka_Frame_16
+    originalName: 
+    pivot: {x: 0.7826087, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 46
+      height: 62
+    spriteID: 242ef6305c988344690096952d1bb98a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 144}
+  - name: ruka_Frame_17
+    originalName: 
+    pivot: {x: 0.73913044, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 214
+      width: 46
+      height: 62
+    spriteID: 743b4099dabac8046814a66979ae92db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 214}
+  - name: ruka_Frame_18
+    originalName: 
+    pivot: {x: 0.67391306, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 284
+      width: 46
+      height: 62
+    spriteID: 99d27b3276b8693478755bade08c37b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 284}
+  - name: ruka_Frame_19
+    originalName: 
+    pivot: {x: 0.65217394, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 354
+      width: 46
+      height: 62
+    spriteID: 326a67fc58a2d074ca1b6e93bfade531
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 354}
+  - name: ruka_Frame_20
+    originalName: 
+    pivot: {x: 0.58695656, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 424
+      width: 46
+      height: 62
+    spriteID: 4699ff5de0d782b40a70b57de81d6e0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 424}
+  - name: ruka_Frame_21
+    originalName: 
+    pivot: {x: 0.5217391, y: -0.516129}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 4
+      width: 46
+      height: 62
+    spriteID: db9ea157c31b551478524ff9ebf24876
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -771359107
+    name: ruka
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: ruka_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 65b20a163577b554b960c130301c345e
+    - name: ruka_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 4
+        y: 32
+        width: 46
+        height: 62
+      spriteId: c1da1494d8b729d42a05a76b3b668f73
+    - name: ruka_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 5
+        y: 32
+        width: 46
+        height: 62
+      spriteId: a7b90810a522df941a5105c3fcf4048e
+    - name: ruka_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 32
+        width: 46
+        height: 62
+      spriteId: c67a7d7053755184cac892d900a57054
+    - name: ruka_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 8
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 81d9023af858ab84a94e016f16bc3f69
+    - name: ruka_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 9
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 2b7453e987a42484589d87c3ae66cdad
+    - name: ruka_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 11
+        y: 32
+        width: 46
+        height: 62
+      spriteId: bd632b51017442749a97cfe79996157f
+    - name: ruka_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 12
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 7802054e209f2cc43b0b699e890a9c39
+    - name: ruka_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 16
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 8172fd7bcc99f724d828a15895a4f226
+    - name: ruka_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 17
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 5e22416668f813c4d9110a81c8f07bbe
+    - name: ruka_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 19
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 8f7af25617d666543891ac41d71e2a08
+    - name: ruka_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 20
+        y: 32
+        width: 46
+        height: 62
+      spriteId: b94e31d4b56442a44855950aa93b05f9
+    - name: ruka_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 22
+        y: 32
+        width: 46
+        height: 62
+      spriteId: c8aef87d52f2ccf4485b32493f44e85e
+    - name: ruka_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 23
+        y: 32
+        width: 46
+        height: 62
+      spriteId: c6fb6ef621304a548bfcb97421ff1640
+    - name: ruka_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 25
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 16d577566d3f2834283430c80e89e105
+    - name: ruka_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 26
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 10605be9f1852ca4e85a962aeca8b785
+    - name: ruka_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 28
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 242ef6305c988344690096952d1bb98a
+    - name: ruka_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 30
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 743b4099dabac8046814a66979ae92db
+    - name: ruka_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 33
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 99d27b3276b8693478755bade08c37b4
+    - name: ruka_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 34
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 326a67fc58a2d074ca1b6e93bfade531
+    - name: ruka_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 37
+        y: 32
+        width: 46
+        height: 62
+      spriteId: 4699ff5de0d782b40a70b57de81d6e0d
+    - name: ruka_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 40
+        y: 32
+        width: 46
+        height: 62
+      spriteId: db9ea157c31b551478524ff9ebf24876
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 128}

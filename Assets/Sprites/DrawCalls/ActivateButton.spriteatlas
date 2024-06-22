@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ActivateButton
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: -97680217238283263, guid: f85c5fa419d7b1140853c7601776be13, type: 3}
+    - {fileID: 6967505104201758454, guid: 3562550c05cb249439f60ab4127fcf2c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f85c5fa419d7b1140853c7601776be13: -97680217238283263
+    - 3562550c05cb249439f60ab4127fcf2c: 6967505104201758454
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -97680217238283263, guid: f85c5fa419d7b1140853c7601776be13, type: 3}
+  - {fileID: 6967505104201758454, guid: 3562550c05cb249439f60ab4127fcf2c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Button_osnova (1)
+  - Button1
+  m_RenderDataMap: {}
+  m_Tag: ActivateButton
+  m_IsVariant: 0
