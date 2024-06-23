@@ -13,7 +13,7 @@ The team used Unity Engine and many interesting tools, such as DotWeen
 ### authors
 >Development - @MrKopchick
 
->Graphics - @zefruu
+>Graphics - @zefruuu
 
 ### other
 
