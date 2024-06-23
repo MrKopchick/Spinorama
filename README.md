@@ -10,6 +10,13 @@ Spinorama is a game in which you rotate a box platform with a maze to deliver th
 The game was made by our studio Pixel Dreams. Our studio currently consists of two young specialists from Ukraine. The development was carried out for a little more than a month.
 The team used Unity Engine and many interesting tools, such as DotWeen 
 
+### authors
+>Development - @MrKopchick
+
+>Graphics - @zefruu
+
+### other
+
 > made in Unity
 
 > done in one month
@@ -22,4 +29,5 @@ The team used Unity Engine and many interesting tools, such as DotWeen
 
 > used many interesting tools
 
+> has 40 levels
 
