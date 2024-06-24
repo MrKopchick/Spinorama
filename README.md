@@ -11,9 +11,9 @@ The game was made by our studio Pixel Dreams. Our studio currently consists of t
 The team used Unity Engine and many interesting tools, such as DotWeen 
 
 ### authors
->Development - @MrKopchick
+>Development - @MrKopchick - 13 y.o
 
->Graphics - @zefruuu
+>Graphics - @zefruuu - 13 y.o
 
 ### other
 
@@ -30,4 +30,14 @@ The team used Unity Engine and many interesting tools, such as DotWeen
 > used many interesting tools
 
 > has 40 levels
+
+# Our social media
+> Telegram: Pixel Dreams | https://t.me/pixeldreams1
+
+> TikTok: @pixel.dreams3
+
+Please subscribe, we are trying hard)
+
+# Screenshots
+
 
