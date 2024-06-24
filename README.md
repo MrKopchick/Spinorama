@@ -42,7 +42,7 @@ Please subscribe, we are trying hard)
 
 # Screenshots
 
-![ScreenShot](https://github.com/MrKopchick/Spinorama/blob/main/Images/photo_2024-06-22_20-58-22%20(2).jpg)
+![ScreenShot](https://github.com/MrKopchick/Spinorama/blob/main/Images/photo_2024-06-22_20-58-22.jpg)
 ![ScreenShot](https://github.com/MrKopchick/Spinorama/blob/main/Images/photo_2024-06-22_20-58-22%20(4).jpg)
 ![ScreenShot](https://github.com/MrKopchick/Spinorama/blob/main/Images/photo_2024-06-22_20-58-22%20(1).jpg)
 ![ScreenShot](https://github.com/MrKopchick/Spinorama/blob/main/Images/photo_2024-06-22_20-58-22%20(3).jpg)
